@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satrio Rully P</h1>
-<h3 align="center">A passionate Backend developer from Indonesia</h3>
+<h3 align="center">A passionate Web developer from Indonesia</h3>
 
 - 🌱 I’m currently learning **Codeigniter 3 & 4, Laravel 9**
 
